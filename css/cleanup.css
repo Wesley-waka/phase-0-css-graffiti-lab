@@ -1,5 +1,21 @@
 /* write your override styles here */
 
+  body #wall  {
+   margin: 34px;
+  }
   body #wall .tag-1 {
     display: none;
+    padding: 46px;
+  }
+  #wall #tag-2{
+    display: none;
+    margin: 56px;
+  }
+  div#wall #tag-3.slick {
+    padding: 78px;
+    margin: 89px;
+    display: flex;
+    top: 56px;
+    bottom: 98px;
+    
   }
